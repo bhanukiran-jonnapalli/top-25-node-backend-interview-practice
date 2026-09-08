@@ -1,0 +1,12 @@
+[
+  {
+    "paymentId": "PAY001",
+    "amount": 85000,
+    "status": "success"
+  },
+  {
+    "paymentId": "PAY002",
+    "amount": 3500,
+    "status": "success"
+  }
+]
